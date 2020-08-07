@@ -1,3 +1,8 @@
+/**
+ * NIM      : 10117210
+ * Nama     : Ade Syahlan Prayoga
+ * Kelas    : IF-7
+ */
 package com.alanpryoga.uasakb.data.repo;
 
 import com.alanpryoga.uasakb.data.model.Lokasi;

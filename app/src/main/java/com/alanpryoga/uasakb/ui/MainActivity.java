@@ -1,8 +1,15 @@
-package com.alanpryoga.uasakb;
+/**
+ * NIM      : 10117210
+ * Nama     : Ade Syahlan Prayoga
+ * Kelas    : IF-7
+ */
+package com.alanpryoga.uasakb.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.alanpryoga.uasakb.R;
 
 public class MainActivity extends AppCompatActivity {
 
