@@ -19,6 +19,15 @@ public class Lokasi {
 
     private String latitude;
 
+    public Lokasi(int id, String nama, String deskripsi, String gambar, String longitude, String latitude) {
+        this.id = id;
+        this.nama = nama;
+        this.deskripsi = deskripsi;
+        this.gambar = gambar;
+        this.longitude = longitude;
+        this.latitude = latitude;
+    }
+
     public int getId() {
         return id;
     }

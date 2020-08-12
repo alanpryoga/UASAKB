@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">UAS AKB</string>
+
+    <string name="home_menu_title">Beranda</string>
+    <string name="map_menu_title">Peta</string>
+    <string name="about_menu_title">Tentang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
