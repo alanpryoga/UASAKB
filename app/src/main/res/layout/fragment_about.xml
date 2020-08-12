@@ -16,20 +16,29 @@
             android:layout_height="wrap_content"
             android:text="Aplikasi ini dibuat untuk keperluan tugas pengganti UAS sebagai syarat salah satu mata kuliah Aplikasi Komptasi Bergerak."/>
 
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="128dp"
+            android:src="@drawable/profile"
+            android:layout_marginTop="16dp" />
+
         <TextView
             android:layout_marginTop="16dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nama: Ade Syahlan Prayoga" />
+            android:text="Nama: Ade Syahlan Prayoga"
+            android:textAlignment="center" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Kelas: IF-7" />
+            android:text="Kelas: IF-7"
+            android:textAlignment="center" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="NIM: 10117210" />
+            android:text="NIM: 10117210"
+            android:textAlignment="center" />
     </LinearLayout>
 </FrameLayout>
